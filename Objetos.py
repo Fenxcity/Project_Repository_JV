@@ -1,0 +1,25 @@
+from Bebidas import Bebidas
+
+Pepsi = Bebidas(12345, 'Pepsi Black', 24.5, 'PepsiCo', 'Gaseosa', 38, 'Refresco')
+CocaCola = Bebidas(15836,'Coca-Cola Original', 22.0, 'Coca-Cola Company', 'Gaseosa', 45, 'Refresco')
+Sprite = Bebidas(57892, 'Sprite Zero', 20.5, 'Coca-Cola Company', 'Gaseosa', 50, 'Refresco')
+Fanta = Bebidas(71582, 'Fanta Naranja', 21.5, 'Coca-Cola Company', 'Gaseosa', 40, 'Refresco')
+RedBull = Bebidas(96472, 'Red Bull Energy Drink', 45.0, 'Red Bull GmbH', 'Energética', 35, 'Energizante')
+Lipton = Bebidas(51479, 'Lipton Té Helado Limón', 28.0, 'Unilever', 'Té Helado', 25, 'Té')
+Bonafont = Bebidas(10589, 'Bonafont Natural', 12.0, 'Danone', 'Agua', 100, 'Agua')
+TopoChico = Bebidas(73028, 'Topo Chico Mineral', 18.0, 'Topo Chico', 'Agua Carbonatada', 60, 'Agua Mineral')
+Monster = Bebidas(89014, 'Monster Energy', 50.0, 'Monster Beverage', 'Energética', 30, 'Energizante')
+Nescafé = Bebidas(74250, 'Nescafé Latte', 35.0, 'Nestlé', 'Café', 20, 'Lácteo')
+Boing = Bebidas(10251, 'Boing Mango', 15.0, 'Pasión Mexicana', 'Jugos', 75, 'Jugo')
+SevenUp = Bebidas(12121, '7Up Free', 19.5, 'PepsiCo', 'Gaseosa', 55, 'Refresco')
+Powerade = Bebidas(23232, 'Powerade Mountain Blast', 30.0, 'Coca-Cola Company', 'Isotónica', 40, 'Energizante')
+Arizona = Bebidas(34343, 'Arizona Green Tea', 28.5, 'Arizona Beverages', 'Té Helado', 25, 'Té')
+DelValle = Bebidas(45454, 'Del Valle Manzana', 16.5, 'Coca-Cola Company', 'Jugos', 70, 'Jugo')
+Ciel = Bebidas(56565, 'Ciel Natural', 10.0, 'Coca-Cola Company', 'Agua', 120, 'Agua')
+Perrier = Bebidas(67676, 'Perrier Lime', 24.0, 'Nestlé', 'Agua Carbonatada', 50, 'Agua Mineral')
+V8 = Bebidas(78787, 'V8 Original', 32.0, 'Campbell Soup Company', 'Jugos', 30, 'Jugo Vegetal')
+Starbucks = Bebidas(89898, 'Starbucks Frappuccino Mocha', 40.0, 'PepsiCo', 'Café', 22, 'Lácteo')
+Jumex = Bebidas(90909, 'Jumex Durazno', 15.0, 'Grupo Jumex', 'Jugos', 85, 'Jugo')
+Yakult = Bebidas(10110, 'Yakult Original', 18.5, 'Yakult Honsha', 'Probiotico', 60, 'Lácteo')
+
+
